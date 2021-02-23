@@ -1,0 +1,25 @@
+.nava{
+	background-color: #252f31;
+	color:#fff;
+	overflow: hidden;
+	text-transform: capitalize;
+
+}
+
+.nava ul li{
+
+	float:left;padding-left: 10px;
+}
+
+.nava ul li a{
+	color:#0099DF;
+	text-decoration: none;
+	font-style: italic;
+	font-family: Comic Sans MS ;
+	font-size: 20px;
+
+}
+
+.menu:hover{
+	color: #30b576 ! important;
+}
